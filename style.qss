@@ -1,0 +1,91 @@
+QPushButton#taskViewer_button {
+    background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+                                    stop:0 #b9deed, 
+                                    stop:1 #efefef);
+    color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+                                stop:0 #3f0810, 
+                                stop:1 #fd2020);
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+QPushButton#peFiles_button {
+    background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+                                    stop:0 #b9deed, 
+                                    stop:1 #efefef);
+    color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+                                stop:0 #3f0810, 
+                                stop:1 #fd2020);
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+QPushButton#keyScaner_button {
+    background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+                                    stop:0 #b9deed, 
+                                    stop:1 #efefef);
+    color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+                                stop:0 #3f0810, 
+                                stop:1 #fd2020);
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+QPushButton#close_button {
+    background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+                                    stop:0 #b9deed, 
+                                    stop:1 #efefef);
+    color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+                                stop:0 #3f0810, 
+                                stop:1 #fd2020);
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+QPushButton#update_button {
+    background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+                                    stop:0 #b9deed, 
+                                    stop:1 #efefef);
+    color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+                                stop:0 #3f0810, 
+                                stop:1 #fd2020);
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+QMainWindow {
+    background-color: qlineargradient(x1:0, y1:1, x2:1, y2:1,
+                                    stop:0 #faf0cd, 
+                                    stop:1 #fab397);
+}
+
+QWidget#KeyboardHook {
+    background: qlineargradient(x1:0, y1:1, x2:1, y2:1,
+                                    stop:0 #69b7eb,
+                                    stop:0.3 #b3dbd3 
+                                    stop:1 #f4d6db);
+}
+
+QWidget#PEFiles {
+    background: qlineargradient(x1:0, y1:1, x2:1, y2:1,
+                                    stop:0 #69b7eb,
+                                    stop:0.3 #b3dbd3 
+                                    stop:1 #f4d6db);
+}
+
+QWidget#TaskViewer {
+    background: qlineargradient(x1:0, y1:1, x2:1, y2:1,
+                                    stop:0 #69b7eb,
+                                    stop:0.3 #b3dbd3 
+                                    stop:1 #f4d6db);
+}
